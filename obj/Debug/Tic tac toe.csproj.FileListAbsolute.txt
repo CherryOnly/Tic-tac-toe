@@ -1,0 +1,16 @@
+D:\Projects\Tic tac toe\bin\Debug\Tic tac toe.exe.config
+D:\Projects\Tic tac toe\bin\Debug\Tic tac toe.exe
+D:\Projects\Tic tac toe\bin\Debug\Tic tac toe.pdb
+D:\Projects\Tic tac toe\obj\Debug\Tic tac toe.csprojAssemblyReference.cache
+D:\Projects\Tic tac toe\obj\Debug\MainWindow.g.cs
+D:\Projects\Tic tac toe\obj\Debug\App.g.cs
+D:\Projects\Tic tac toe\obj\Debug\Tic tac toe_MarkupCompile.cache
+D:\Projects\Tic tac toe\obj\Debug\Tic tac toe_MarkupCompile.lref
+D:\Projects\Tic tac toe\obj\Debug\App.baml
+D:\Projects\Tic tac toe\obj\Debug\MainWindow.baml
+D:\Projects\Tic tac toe\obj\Debug\Tic tac toe.g.resources
+D:\Projects\Tic tac toe\obj\Debug\Tic_tac_toe.Properties.Resources.resources
+D:\Projects\Tic tac toe\obj\Debug\Tic tac toe.csproj.GenerateResource.cache
+D:\Projects\Tic tac toe\obj\Debug\Tic tac toe.csproj.CoreCompileInputs.cache
+D:\Projects\Tic tac toe\obj\Debug\Tic tac toe.exe
+D:\Projects\Tic tac toe\obj\Debug\Tic tac toe.pdb
